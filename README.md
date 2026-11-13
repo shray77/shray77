@@ -6,7 +6,7 @@
 ## 🐄 Экосистема
 
 - **[VetHub](https://github.com/shray77/vet-hub)** — ситуационный центр: метео + хитмап болезней + ВПГП + TimesFM в одном окне
-- **[ВЕТМЕТО](https://github.com/shray77/vet-meteo)** — метеопрогноз для ветеринаров: THI/BRD/паразиты/АЧС, 16 станций Ростовской обл., ансамбль ECMWF
+- **[ВЕТМЕТЕО](https://github.com/shray77/vet-meteo)** — метеопрогноз для ветеринаров: THI/BRD/паразиты/АЧС, 16 станций Ростовской обл., ансамбль ECMWF
 - **[VetTools](https://github.com/shray77/vettools)** — офлайн-инструмент ветврача: SOAP, выписка, протоколы, калькуляторы — один HTML без сети
 - **[VetVoice](https://github.com/shray77/vetvoice)** — справочник и калькулятор дозировок с голосовым управлением (Flutter + Vosk)
 - **[VetInSilico](https://github.com/shray77/vet-insilico)** — in silico drug repurposing для ветеринарных патогенов
